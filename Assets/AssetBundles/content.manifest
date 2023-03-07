@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 523001103
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 234531dcd29ea3055463f72fb057ab14
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9d489b35fdc17cb93321afca22c6bbef
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Music/phonk.mp3
+- Assets/Resources/Sprite/fighter.png
+Dependencies: []
